@@ -2,3 +2,5 @@ Ducksboard components for NoFlo [![Build Status](https://secure.travis-ci.org/no
 =========================
 
 NoFlo integration for the Ducksboard API
+
+Status: Obsolete
