@@ -15,12 +15,12 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "noflo": "0.3.x"
+    "noflo": "~0.7.9"
   },
   "devDependencies": {
     "nodeunit": ">=0.6.0",
     "coffeelint": "*",
-    "coffee-script": "1.4.x"
+    "coffee-script": "~1.12.2"
   },
   "noflo": {
     "components": {
